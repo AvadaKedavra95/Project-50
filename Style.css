@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-family: 'Ravie', cursive;
+    text-shadow: 2px 3px 1px white;
+    color: crimson;
+    font-size:400%;
+    
+
+}
+
+h2 {
+    
+    
+    text-shadow: 3px;
+    font-family: 'Indie Flower', cursive;
+    text-shadow: 2px 3px 1px white;
+    font-size:200%;
+    padding-top: 100px;
+    
+    
+}
+
+p {
+    
+    text-align: end;
+    text-shadow: 3px;
+    font-family: 'Indie Flower', cursive;
+    text-shadow: 2px 3px 1px white;
+    font-size:400%;
+    padding-top: 100px;
+    color:red
+    
+    
+}
+
+
+
+
+body {
+    background-image: radial-gradient(rgb(240, 57, 57),rgb(0, 150, 255), rgb(13, 218, 98),rgb(255, 160, 0))
+}
+
+
+.grid{
+    display : flex;
+    flex-wrap : wrap;
+    justify-self : space-evenly;
+
+}
+
+
